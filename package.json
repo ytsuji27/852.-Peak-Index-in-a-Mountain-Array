@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/ytsuji27/852.-Peak-Index-in-a-Mountain-Array#readme",
   "devDependencies": {
-    "mocha": "^6.2.0"
+    "mocha": "^10.2.0"
   }
 }
